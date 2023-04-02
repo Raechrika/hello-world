@@ -1,5 +1,5 @@
 # hello-world
-**I am astonishing __Rachel-Erica__ with a mindset of a go getter who is determined at learning new things and becoming the bst at it**
+**I am astonishing __Rachel-Erica__ with a mindset of a go getter who is determined at learning new things and becoming the best at it**
 ## My journey as a software engieneering student
 __I am particularly excited about this new journey of learning to code with the hopes of becoming a successful backend and frontend software developer.__
 **I believe with these three attitudes towards learning I am going to come out victorious:**
